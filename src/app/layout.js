@@ -18,7 +18,7 @@ const RootLayout = ({ children }) => {
           <div>
             <Sidebar></Sidebar>
           </div>
-          <div>
+          <div className="w-full bg-slate-100">
             <div>
               <Navbar></Navbar>
             </div>
